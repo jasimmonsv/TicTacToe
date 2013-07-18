@@ -1,0 +1,8 @@
+*.class
+TicTacToeClient/bin/
+TicTacToeServer/bin/
+
+# Package Files #
+*.jar
+*.war
+*.ear
